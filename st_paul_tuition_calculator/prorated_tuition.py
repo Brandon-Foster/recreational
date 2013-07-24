@@ -27,7 +27,7 @@ year = int(raw_input("\n> "))
 
 print "\nYou entered %d." % (year)
 
-# Accept the starting month
+# Accepts the starting month
 print ("\nPlease enter the month the student began. (January would be 1)")
 
 month = int(raw_input("\n> "))
