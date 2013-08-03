@@ -1,4 +1,4 @@
 recreational
 ============
 
-My "just for fun" code. Redundant, I know.
+My "just for fun" python exercises.
